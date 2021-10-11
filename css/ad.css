@@ -1,0 +1,19 @@
+/* 这是本站网址的强制一行显示 */
+
+.nav .item {
+    overflow: hidden;
+    /* 超出部分隐藏 */
+    text-overflow: ellipsis;
+    /* 超出部分显示... */
+    white-space: nowrap;
+    /* 文本强制一行显示     */
+}
+
+
+/* 同一目录标签的详情解释
+字体略小 */
+
+.box .sub-category span {
+    font-size: 13px;
+    text-align: 12px;
+}
