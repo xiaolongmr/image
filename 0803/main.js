@@ -174,7 +174,7 @@ function container(brightness) {
 
 // 共享账号
 function tips() {
-    document.getElementById("dome").innerHTML = "<code><font color="hotpink">使用的国际版账号，数据库拉取可能会慢</font></code><br><strong>1</strong> (未开放注册) 可使用 <font onclick=test0() color=hotpink> 👉共享账号👈 </font> 进行登录留言<br> <strong>2</strong> 右下角客服（站长）头像点击对话";
+    document.getElementById("dome").innerHTML = "<code><font color="hotpink">使用的国际版账号，数据库拉取可能会慢，留言可以在匿名聊天室或者右下角网站客服</font></code><br><strong>1</strong> (未开放注册) 可使用 <font onclick=test0() color=hotpink> 👉共享账号👈 </font> 进行登录留言<br> <strong>2</strong> 右下角客服（站长）头像点击对话";
 };
 
 
